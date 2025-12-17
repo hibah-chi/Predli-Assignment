@@ -1,0 +1,9 @@
+pip install -r requirements.txt 
+
+# to save new reqs 
+
+pip freeze > requirements.txt 
+
+# to run the main file 
+
+python3 main.py
